@@ -1,0 +1,27 @@
+{
+  "name": "solargif",
+  "version": "1.0.0",
+  "description": "Create gifs of custom solar systems!",
+  "main": "solargif.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Augumat/solargif.git"
+  },
+  "author": "Augumat",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Augumat/solargif/issues"
+  },
+  "homepage": "https://github.com/Augumat/solargif#readme",
+  "dependencies": {
+    "canvas": "^2.10.1",
+    "cli-progress": "^3.11.2",
+    "command-line-args": "^5.2.1",
+    "gifencoder": "^2.0.1",
+    "mathjs": "^11.2.1",
+    "png-file-stream": "^1.2.1"
+  }
+}
